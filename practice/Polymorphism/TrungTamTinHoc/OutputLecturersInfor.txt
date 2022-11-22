@@ -1,0 +1,42 @@
+Your name: name
+Your date of birth: 01/02/2201
+Your academic rank: f
+Your degree: f
+Your start date for job: 21/09/2003
+
+Your name: A
+Your date of birth: 12/05/2001
+Your academic rank: g
+Your degree: g
+Your start date for job: 25/06/2009
+
+Your name: B
+Your date of birth: 22/09/1999
+Your academic rank: e
+Your degree: e
+Your start date for job: 09/02/2001
+
+Your name: C
+Your date of birth: 12/05/2001
+Your academic rank: g
+Your degree: g
+Your start date for job: 25/06/2009
+
+Your name: Tran Dang Tuan
+Your date of birth: 28/08/2000
+Your academic rank: Senior
+Your degree: Bachelor
+Your start date for job: 23/02/2022
+
+Your name: Pham Tuan Tai
+Your date of birth: 20/12/2002
+Your academic rank: Junior
+Your degree: Fuck boy
+Your start date for job: 12/11/1999
+
+Your name: Le Ba Diep
+Your date of birth: 02/01/1997
+Your academic rank: Master
+Your degree: Gay
+Your start date for job: 30/03/2003
+
